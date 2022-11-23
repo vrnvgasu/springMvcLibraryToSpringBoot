@@ -1,0 +1,1 @@
+docker-compose --file "project2_boot_db_container.yml" up --build -d
